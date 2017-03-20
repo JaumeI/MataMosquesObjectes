@@ -17,6 +17,7 @@ void draw() {
   moscaNegra.dibuixaiMou();
   comprovaLimits();
   comprovaFiJoc();
+
   delay(50);
 }
 void mousePressed()
